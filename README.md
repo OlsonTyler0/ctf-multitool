@@ -83,8 +83,17 @@ Repositories or projects to consider when thinking about team collaboration.
 - [PwnHub](https://github.com/Maybe4a6f7365/PwnHub) - Open source collaboration platform allowing the collaboration of a single team. Ironically made with shell files.
 
 ## Learning
+### Video Content
+- [Competing in the ALLES. CTF - Team Recording in Real Time](https://www.youtube.com/watch?v=DGuRI_SPZYg) - A great video about the Alles! ctf team playing in a Google CTF Finals. Talking all aobut methodologies and how they go through competitions
+- [Real world CTF Finals 2018](https://www.youtube.com/watch?v=2S_TXaGYD8E) - A great video from LiveOverflow about an in person capture the flag competition that was held in china.
+#### Channels to look at
+- [Live Overflow](https://www.youtube.com/@LiveOverflow)
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [Matt Brown](https://www.youtube.com/@mattbrwn/videos) - Red Team related channel!
+
 ### Reading
 - [Hack Tricks Book](https://book.hacktricks.wiki/en/index.html) - A book all about red team and other cybersecurity related topics. A great read for those interested in capture the flags.
+
 ### Practice Challenges
 - [Under the Wire Wargames](https://underthewire.tech/wargames)- Games to exercise additional learning in capture the flags.
 - [Pico CTF](https://picoctf.org/) - Small capture the flag challenges to exercies the brain
