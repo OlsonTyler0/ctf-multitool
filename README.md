@@ -102,6 +102,7 @@ eval(function(p,a,c,k,e,r){e=String;if(!''.replace(/^/,String)){while(c--)r[c]=k
 **Recomended Videos:**
 - [Competing in the ALLES. CTF - Team Recording in Real Time](https://www.youtube.com/watch?v=DGuRI_SPZYg) - A great video about the Alles! ctf team playing in a Google CTF Finals. Talking all aobut methodologies and how they go through competitions
 - [Real world CTF Finals 2018](https://www.youtube.com/watch?v=2S_TXaGYD8E) - A great video from LiveOverflow about an in person capture the flag competition that was held in china.
+- [Advanced tips and tricks for capture the flag](https://www.youtube.com/watch?v=Vh3gN-Pog1k&t=934s) an AMAZING talk from John Hammond about capture the flags.
 
 **Youtube Channels:**
 - [Live Overflow](https://www.youtube.com/@LiveOverflow) - A great world class CTF player who has amazing videos on different topics related to CTF's and cybersecurity.
