@@ -74,6 +74,7 @@ eval(function(p,a,c,k,e,r){e=String;if(!''.replace(/^/,String)){while(c--)r[c]=k
 - [Internet Archive](https://archive.org/) - A look back in time on websites
 - [DNS Dumpster](https://dnsdumpster.com/) - Dumps all of the DNS of a website
 - [URLScan.io](https://urlscan.io/) - An amazing tool to scan websites for additional information.
+- [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/) - An amazing tool to use for geolocation tasks
 
 ### Corporate Information
 - [Open Corporates](https://opencorporates.com/) - Gather open corporate information 
