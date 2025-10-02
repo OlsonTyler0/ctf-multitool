@@ -97,6 +97,7 @@ eval(function(p,a,c,k,e,r){e=String;if(!''.replace(/^/,String)){while(c--)r[c]=k
 ----------------
 - [Aperi'Solve](https://aperisolve.fr/) - One of the best solvers for stegonography images
 - [StegOnline](https://www.georgeom.net/StegOnline/upload) - A really good CTF Stegonography tool, mostly helps with colors and file extraction
+- [x-ray unredact tool](https://github.com/freelawproject/x-ray)
 
 
 ## PWN
