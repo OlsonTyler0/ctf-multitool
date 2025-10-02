@@ -11,13 +11,15 @@
 -------------------
 
 # Table of contents
-1. [Big tool repositories](#tool-repositories)
+1. [Tool repositories](#tool-repositories)
 2. [General](#general)
 3. [Cryptography](#cryptography)
-4. [Forensics](#forensics)
-5. [OSINT](#OSINT)
-6. [PWN](#pwn)
-7. [Learning](#learning)
+4. [De-Obfuscation](#de-obfuscation)
+5. [Forensics](#forensics)
+6. [OSINT](#OSINT)
+7. [Steganography](#steganography)
+8. [PWN](#pwn)
+9. [Learning](#learning)
 
 --------------------
 
@@ -44,7 +46,7 @@ Collaboration tools
 - [Boxentriq Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier) - Cryptography tool great at identifying what a cipher is
 - [Xor Calculator](https://xor.pw/) - A great calculator for XOR 
 - [RSA ctf tool](https://github.com/RsaCtfTool/RsaCtfTool) - an RSA attack tool to retrieve a private key from a wek public key
-- 
+
 
 ## De-obfuscation
 -----------------
